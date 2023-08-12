@@ -55,7 +55,7 @@
 [![its-me-ojas's GitHub | Languages Over Time](https://stats.quine.sh/its-me-ojas/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ips610)
 <br>
 <br>
-[![its-me-ojas's GitHub | Topics Over Time](https://stats.quine.sh/its-me=ojas/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ips610)
+[![its-me-ojas's GitHub | Topics](https://stats.quine.sh/its-me-ojas/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=its-me-ojas)
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-me-ojas&theme=transparent&hide_border=true&border_radius=5&card_width=500&langs_count=8&include_private" />

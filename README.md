@@ -7,16 +7,21 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=its-me-ojas&label=Profile%20views&color=0e75b6&style=flat" alt="its-me-ojas" height=25px/>  <br></p>
 
 ```
-                               /\_/\  
-                              ( o.o ) 
-                               > ^ <
-                _____________________________________
-               / Hey there! Welcome to my GitHub     \
-               | playground! Let's write some code,  |
-               | create, and have a purrfect time    |
-               \ together!                           /
-                ------------------------------------- 
-  
+          .--.
+         |o_o |
+         |:_/ |
+        //   \ \
+       (|     | )
+      /'\_   _/`\
+      \___)=(___/
+          
+_____________________________________
+/ Hey there! Welcome to my GitHub     \
+| playground! Let's write some code,  |
+| create, and have a chill time       |
+\ together!                           /
+ -------------------------------------
+
 ```
  
 <br />

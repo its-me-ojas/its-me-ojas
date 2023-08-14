@@ -35,13 +35,14 @@ _____________________________________
 
 <h4>
   <ul>
-<li>🧑‍💻 Hey there, I'm Ojas, hailing from the vibrant city of Ludhiana in Punjab, India. Currently, I'm pursuing my studies at Thapar University in Patiala, where I'm diving deep into the world of computer science.<br>
-<li>🔥 I'm a passionate computer science student and a dedicated tech enthusiast. My days are fueled by a profound love for technology, driving me to constantly explore new concepts and refine my skills. The ever-evolving landscape of computer science excites me, and I find myself thriving in its dynamic nature.<br>
-<li>🚀 I'm always eager to embrace emerging technologies and stay at the forefront of the latest industry trends. Contributing to innovative projects and making a meaningful impact is what keeps me motivated. I have a knack for pushing boundaries, exploring new ideas, and thinking outside the box.<br>
-<li>🌱 To me, technology represents endless possibilities and the power to shape the future. Just like how a dart hits its target, I'm determined to make my mark in this ever-expanding digital realm. When I'm not coding, you can find me hitting the gym or expressing my creativity through drawing.<br>
-<li>💡 Here's to embracing the journey of innovation, learning, and growth together. Let's connect, collaborate, and create wonders in the world of technology! 🚀🌟🎨<br>
+    <li>🧑‍💻 Hey there, I'm Ojas, hailing from the vibrant city of Ludhiana in Punjab, India. Currently, I'm pursuing my studies at Thapar University in Patiala, where I'm diving deep into the world of computer science.</li>
+    <li>🔥 I'm a passionate computer science student and a dedicated tech enthusiast. My days are fueled by a profound love for technology, driving me to constantly explore new concepts and refine my skills. The ever-evolving landscape of computer science excites me, and I find myself thriving in its dynamic nature.</li>
+    <li>🚀 I'm always eager to embrace emerging technologies and stay at the forefront of the latest industry trends. Contributing to innovative projects and making a meaningful impact is what keeps me motivated. I have a knack for pushing boundaries, exploring new ideas, and thinking outside the box.</li>
+    <li>🌱 To me, technology represents endless possibilities and the power to shape the future. Just like how a dart hits its target, I'm determined to make my mark in this ever-expanding digital realm. When I'm not coding, you can find me hitting the gym or expressing my creativity through drawing.</li>
+    <li>💡 Here's to embracing the journey of innovation, learning, and growth together. Let's connect, collaborate, and create wonders in the world of technology! 🚀🌟🎨</li>
   </ul>
 </h4>
+
 <br>
 
 [![its-me-ojas's GitHub | Stats](https://stats.quine.sh/its-me-ojas/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=its-me-ojas)

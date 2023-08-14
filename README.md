@@ -33,7 +33,6 @@ _____________________________________
 
 
 <h4>
-#### About Me
 <ul>
   <li>🧑‍💻 Hey there, I'm Ojas, from Ludhiana, Punjab, India. Currently studying at Thapar University in Patiala, diving deep into computer science.</li>
   <li>🔥 Passionate about tech, exploring new concepts, and refining my skills. Excited by the ever-evolving landscape of computer science.</li>

@@ -26,7 +26,7 @@
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original-wordmark.svg" />
-<img align="left" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-plain-wordmark.svg" />
 
 <br>
 

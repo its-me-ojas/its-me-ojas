@@ -18,7 +18,7 @@
 
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
-<img align="left" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rust/rust-plain.svg" />
+<img align="left" width="50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rust/rust-plain.svg" />
 <img align="left" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" />
 <img align="left" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />

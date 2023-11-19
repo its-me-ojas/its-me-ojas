@@ -6,7 +6,7 @@
   <img align="right" alt="GIF" src="https://github.com/its-me-ojas/its-me-ojas/blob/main/Media/Avatar.png" width="45%" style="margin:0 50px;"> 
 <h3>About Me:</h3>
 
-- 🌱 I’m currently learning Node.js.  
+- 🌱 I’m currently learning Rust.  
 - 🤝 I'm Looking for help with DSA. 
 
 <br>

@@ -1,51 +1,49 @@
-<link rel="stylesheet" type="text/css" media="all" href="styles.css" />
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ojas
+============================================================================================================================
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, my name is Ojas</h1>
-<h2 align="center" class="noborder">I am a CS undergrad from India!</h2>
-<br>
-  <img align="right" alt="GIF" src="https://github.com/its-me-ojas/its-me-ojas/blob/main/Media/Avatar.png" width="45%" style="margin:0 50px;"> 
-<h3>About Me:</h3>
+Tech Polyglot
+-------------
 
-- 🌱 I’m currently learning Rust.  
-- 🤝 I'm Looking for help with DSA. 
+I'm Ojas, a sophomore at Thapar University. I thrive in diverse tech landscapes, from C++ and Rust to Java, Python, and the MERN stack. As a core member of the OWASP society, I'm passionate about weaving security into my coding journey.
 
-<br>
-
-
-<h3 align="left">Skills: </h3>
-
-<div style="display:flex;flex-direction:row;justify-content:space-evenly;align-items:center;widht:100%">
-
-<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
-<img align="left" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rust/rust-plain.svg" />
-<img align="left" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" />
-<img align="left" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />
-<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-<img align="left" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" />
-<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original-wordmark.svg" />
-<img align="left" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" />
-
-<br>
-
-</div>
- 
-
-<br>
-<br>
-<h3 style="left: 50px; position:relative;">Connect with me:</h3> 
-
-<a href="https://twitter.com/its_me_ojas"><img align="left" title="Twitter - Ojas" alt="Twitter" height="28px" src="./logos/twitter_coloured.png" /></a>
-<a href="https://www.linkedin.com/in/ojas310/"><img align="left" title="LinkedIn - Ojas" alt="LinkedIn" height="28px" src="./logos/linkedin_coloured.png" /></a>
-<a href="https://www.instagram.com/itscrestfallen/"><img align="left" title="Instagram - Ojas" alt="Instagram" height="28px" src="./logos/instagram_coloured.png" /></a>
-<a href="mailto:crestfallenwizard@gmail.com"><img align="left" title="Mail - Ojas" alt="Mail" height="28px" src="./logos/gmail_coloured.png" /></a>
-
-
-
-
-
+*   🌍  I'm based in India
+*   🖥️  See my portfolio at [crestfallen.tech](http://crestfallen.tech)
+*   ✉️  You can contact me at [crestfallenwizard@gmail.com](mailto:crestfallenwizard@gmail.com)
+*   🧠  I'm learning Rust
+*   🤝  I'm open to collaborating on MERN Projects### Skills 
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                      <a href="https://discord.com/users/itscrestfallen" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.github.com/its-me-ojas" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="http://www.instagram.com/itscrestfallen" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.linkedin.com/in/ojas310" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>

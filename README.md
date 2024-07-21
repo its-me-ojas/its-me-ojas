@@ -12,6 +12,8 @@ Junior at Thapar University. I thrive in diverse tech landscapes, from C++ and R
 *   🧠  I'm learning Kubernetes and Machine learning
 *   🤝  I'm open to collaborating on Full Stack Projects
 *   ⚡  Tiling Manager any day, anytime
+
+</br>
 <a href="https://www.github.com/its-me-ojas" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/its-me-ojas?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 

@@ -60,6 +60,4 @@ Junior at Thapar University. I thrive in diverse tech landscapes, from C++ and R
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
 </picture>
-</a></p>### Badges<b>My GitHub Stats</b><a
-href="http://www.github.com/its-me-ojas"><img
-src="https://github-readme-streak-stats.herokuapp.com/?user=its-me-ojas&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</a></p>

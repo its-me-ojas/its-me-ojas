@@ -1,17 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ojas
 ============================================================================================================================
 
-Web Developer
--------------
+a backend-focused developer & system builder 🚀
+-----------------------------------------------
 
-Junior at Thapar University. I thrive in diverse tech landscapes, from C++ and Rust to Java, Python, and the Spring Boot. As a core member of the OWASP society, I'm passionate about weaving security into my coding journey.
+I'm a pre final year at Thapar University, passionate about backend engineering and building impactful products. I thrive on solving problems, shipping fast, and pushing limits — whether it’s in system design, LeetCode, or launching a new feature.
 
-*   🖥️  See my portfolio at [crestfallen.tech](http://crestfallen.tech)
-*   ✉️  You can contact me at [contact@crestfallen.tech](mailto:contact@crestfallen.tech)
-*   🚀  I'm currently working on [Architect System](http://github.com/its-me-ojas/backend-ArchitectSystem)
-*   🧠  I'm learning Kubernetes and Machine learning
-*   🤝  I'm open to collaborating on Full Stack Projects
-*   ⚡  Tiling Manager any day, anytime
+*   🌍  I'm based in India
+*   🖥️  See my portfolio at [crestfallen.vercel.app](http://crestfallen.vercel.app)
+*   ✉️  You can contact me at [crestfallenwizard@gmail.com](mailto:crestfallenwizard@gmail.com)
+*   🚀  I'm currently working on [Divine AI](http://divine-ai.vercel.app)
+*   🧠  I'm learning FastApi
+*   🤝  I'm open to collaborating on Backend-heavy systems (Rust/FastAPI/Spring Boot) | AI tools & productivity SaaS
+*   ⚡  Breaking Bugs and Leveling Up IRL
 
 </br>
 <a href="https://www.github.com/its-me-ojas" target="_blank" rel="noreferrer"><img

@@ -3,7 +3,7 @@
 i build fast, minimal systems and ship aggressively. obsessed with performance, clean abstractions, and solving real problems over writing pretty code. currently diving deeper into search, devtools, and automation — always pushing for higher output and a sharper engineering ceiling.  
 * 🖥️  See my portfolio at [crestfallen.vercel.app](http://crestfallen.vercel.app)
 * ✉️  You can contact me at [crestfallenwizard@gmail.com](mailto:crestfallenwizard@gmail.com)
-* 🚀  I'm currently working on [limelight](http://limelight.chat)
+* 🚀  I'm currently working on [limelight](http://limelight.chat) — devtools for file intelligence, search, and automation.
 
 ### Skills
 <p align="left"> 
